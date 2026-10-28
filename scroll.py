@@ -10,4 +10,4 @@ pyautogui.FAILSAFE = True
 for i in range(100):
     pyautogui.scroll(-50)
     time.sleep(0.1)
-    break
+
